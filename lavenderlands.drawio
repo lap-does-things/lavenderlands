@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 YaBrowser/24.12.0.0 Safari/537.36" version="26.0.4">
   <diagram name="Страница — 1" id="m5t2pMFYY3bFJD1BpIWN">
-    <mxGraphModel dx="2876" dy="2356" grid="1" gridSize="16" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="light-dark(#FFFFFF,#000000)" math="0" shadow="0">
+    <mxGraphModel dx="2261" dy="2000" grid="1" gridSize="16" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="light-dark(#FFFFFF,#000000)" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -82,6 +82,9 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="cLZ4lquTuIUv25ZifMkw-95" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="cLZ4lquTuIUv25ZifMkw-17" target="cLZ4lquTuIUv25ZifMkw-87">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cLZ4lquTuIUv25ZifMkw-99" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="cLZ4lquTuIUv25ZifMkw-17" target="cLZ4lquTuIUv25ZifMkw-98">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="cLZ4lquTuIUv25ZifMkw-17" value="&lt;h2&gt;&lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(255, 153, 204));&quot;&gt;Кастом мод (BratkiSMP)&lt;/font&gt;&lt;/h2&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
@@ -260,6 +263,26 @@
         </mxCell>
         <mxCell id="cLZ4lquTuIUv25ZifMkw-97" value="Я кузя и это охуенно!!!!" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;" vertex="1" parent="1">
           <mxGeometry x="-784" y="460" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="cLZ4lquTuIUv25ZifMkw-101" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="cLZ4lquTuIUv25ZifMkw-98" target="cLZ4lquTuIUv25ZifMkw-100">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="290" y="364" />
+              <mxPoint x="188" y="364" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cLZ4lquTuIUv25ZifMkw-103" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="cLZ4lquTuIUv25ZifMkw-98" target="cLZ4lquTuIUv25ZifMkw-102">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cLZ4lquTuIUv25ZifMkw-98" value="&lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(255, 255, 0));&quot;&gt;Метаданные&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="230" y="384" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="cLZ4lquTuIUv25ZifMkw-100" value="&lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(255, 255, 0));&quot;&gt;Название&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="128" y="288" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="cLZ4lquTuIUv25ZifMkw-102" value="&lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(255, 255, 0));&quot;&gt;Описание&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="270" y="288" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
