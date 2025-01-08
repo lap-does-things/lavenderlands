@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 YaBrowser/24.12.0.0 Safari/537.36" version="26.0.4">
   <diagram name="Страница — 1" id="m5t2pMFYY3bFJD1BpIWN">
-    <mxGraphModel dx="2261" dy="2000" grid="1" gridSize="16" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="light-dark(#FFFFFF,#000000)" math="0" shadow="0">
+    <mxGraphModel dx="1889" dy="1785" grid="1" gridSize="16" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="light-dark(#FFFFFF,#000000)" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -267,10 +267,10 @@
         <mxCell id="cLZ4lquTuIUv25ZifMkw-94" value="&lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(204, 0, 0));&quot;&gt;Оружие ближника&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="960" y="1090" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="cLZ4lquTuIUv25ZifMkw-96" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="1" vertex="1">
+        <mxCell id="cLZ4lquTuIUv25ZifMkw-96" value="Куза багрепортер" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="1" vertex="1">
           <mxGeometry x="-784" y="550" width="30" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="cLZ4lquTuIUv25ZifMkw-97" value="Я кузя и это охуенно!!!!" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;" parent="1" vertex="1">
+        <mxCell id="cLZ4lquTuIUv25ZifMkw-97" value="Чини сука" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;" parent="1" vertex="1">
           <mxGeometry x="-784" y="460" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="cLZ4lquTuIUv25ZifMkw-101" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="cLZ4lquTuIUv25ZifMkw-98" target="cLZ4lquTuIUv25ZifMkw-100" edge="1">
@@ -300,10 +300,10 @@
           <mxGeometry x="460" y="140" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="IV1hU4eRRa5rk0vwnlBe-1" value="&lt;h1&gt;&lt;font color=&quot;#33ff33&quot;&gt;Решено&lt;/font&gt;&lt;/h1&gt;&lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(51, 255, 51));&quot;&gt;БАГ&lt;br&gt;Кров. Подношение разных материалов заменяет существующие в слоте&lt;/font&gt;" style="shape=dataStorage;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="-624" y="-128" width="211" height="112" as="geometry" />
+          <mxGeometry x="-784" y="670" width="211" height="112" as="geometry" />
         </mxCell>
         <mxCell id="IV1hU4eRRa5rk0vwnlBe-2" value="&lt;h1&gt;&lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(0, 153, 0));&quot;&gt;Решено&lt;/font&gt;&lt;/h1&gt;&lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(51, 255, 51));&quot;&gt;БАГ&lt;br&gt;Трансформация ледяного сета работает только через нагрудник&lt;/font&gt;" style="shape=dataStorage;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="-624" width="211" height="112" as="geometry" />
+          <mxGeometry x="-784" y="798" width="211" height="112" as="geometry" />
         </mxCell>
         <mxCell id="IV1hU4eRRa5rk0vwnlBe-4" value="&lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(204, 0, 0));&quot;&gt;Выдалбливание????&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(204, 0, 0));&quot;&gt;предметов&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="1008" y="430" width="120" height="60" as="geometry" />
