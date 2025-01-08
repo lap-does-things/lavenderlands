@@ -75,6 +75,9 @@
             <mxPoint x="230" y="520" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="cLZ4lquTuIUv25ZifMkw-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="cLZ4lquTuIUv25ZifMkw-17" target="cLZ4lquTuIUv25ZifMkw-38">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="cLZ4lquTuIUv25ZifMkw-17" value="&lt;h2&gt;&lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(255, 153, 204));&quot;&gt;Кастом мод (BratkiSMP)&lt;/font&gt;&lt;/h2&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="340" y="490" width="120" height="60" as="geometry" />
         </mxCell>
@@ -114,10 +117,10 @@
         <mxCell id="cLZ4lquTuIUv25ZifMkw-25" value="&lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(255, 229, 153));&quot;&gt;Уникальная механика (Кровавое подношение)&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="-70" y="590" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="cLZ4lquTuIUv25ZifMkw-27" value="&lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(151, 208, 119));&quot;&gt;Крафт К.С.&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+        <mxCell id="cLZ4lquTuIUv25ZifMkw-27" value="&lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(151, 208, 119));&quot;&gt;Крафт Кров. Слитков&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="-240" y="510" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="cLZ4lquTuIUv25ZifMkw-29" value="&lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(151, 208, 119));&quot;&gt;Крафт К.К.&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+        <mxCell id="cLZ4lquTuIUv25ZifMkw-29" value="&lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(151, 208, 119));&quot;&gt;Крафт Кров. Кожи&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="-240" y="590" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="cLZ4lquTuIUv25ZifMkw-31" value="&lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(204, 0, 0));&quot;&gt;Улучшения брони&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
@@ -128,6 +131,9 @@
         </mxCell>
         <mxCell id="cLZ4lquTuIUv25ZifMkw-36" value="&lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(204, 0, 0));&quot;&gt;Оружие ближника&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="-240" y="300" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="cLZ4lquTuIUv25ZifMkw-38" value="&lt;h3&gt;&lt;font style=&quot;color: light-dark(transparent, rgb(204, 0, 0));&quot;&gt;Ледяная фракция (sin thtulo)&lt;/font&gt;&lt;/h3&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="510" y="490" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
