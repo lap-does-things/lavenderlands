@@ -47,22 +47,22 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="cLZ4lquTuIUv25ZifMkw-3" value="Сам блядский сервак" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="cLZ4lquTuIUv25ZifMkw-3" value="Сам блядский сервак" style="rhombus;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="400" y="190" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="cLZ4lquTuIUv25ZifMkw-5" value="Хостинг" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="cLZ4lquTuIUv25ZifMkw-5" value="Хостинг" style="rhombus;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="320" y="190" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="cLZ4lquTuIUv25ZifMkw-7" value="Домен" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="cLZ4lquTuIUv25ZifMkw-7" value="Домен" style="rhombus;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="230" y="190" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="cLZ4lquTuIUv25ZifMkw-9" value="&lt;h2&gt;Спавн&lt;/h2&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="cLZ4lquTuIUv25ZifMkw-9" value="&lt;h2&gt;Спавн&lt;/h2&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="400" y="100" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="cLZ4lquTuIUv25ZifMkw-10" value="&lt;h3&gt;&lt;font style=&quot;font-size: 11px;&quot;&gt;Плагины для удобства&lt;/font&gt;&lt;/h3&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="cLZ4lquTuIUv25ZifMkw-10" value="&lt;h3&gt;&lt;font style=&quot;font-size: 11px;&quot;&gt;Плагины для удобства&lt;/font&gt;&lt;/h3&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="480" y="100" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="cLZ4lquTuIUv25ZifMkw-13" value="&lt;h3&gt;Сторонние моды&lt;/h3&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="cLZ4lquTuIUv25ZifMkw-13" value="&lt;h3&gt;&lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(255, 255, 0));&quot;&gt;Сторонние моды&lt;/font&gt;&lt;/h3&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="310" y="100" width="80" height="40" as="geometry" />
         </mxCell>
       </root>
