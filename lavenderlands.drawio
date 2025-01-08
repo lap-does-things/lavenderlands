@@ -308,7 +308,7 @@
         <mxCell id="IV1hU4eRRa5rk0vwnlBe-4" value="&lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(204, 0, 0));&quot;&gt;Выдалбливание????&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(204, 0, 0));&quot;&gt;предметов&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="1008" y="430" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="IV1hU4eRRa5rk0vwnlBe-8" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;БАГ&lt;/div&gt;&lt;div&gt;После снятия кр. брони, бесплатный сакдаггер не убирается&lt;/div&gt;" style="shape=dataStorage;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+        <mxCell id="IV1hU4eRRa5rk0vwnlBe-8" value="&lt;h1&gt;&lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(0, 153, 0));&quot;&gt;Решено&lt;/font&gt;&lt;/h1&gt;&lt;div&gt;&lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(0, 153, 0));&quot;&gt;БАГ&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(0, 153, 0));&quot;&gt;После снятия кр. брони, бесплатный сакдаггер не убирается&lt;/font&gt;&lt;/div&gt;" style="shape=dataStorage;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="-784" y="920" width="224" height="104" as="geometry" />
         </mxCell>
       </root>
