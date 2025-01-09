@@ -109,7 +109,7 @@
           <mxGeometry x="110" y="490" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="cLZ4lquTuIUv25ZifMkw-20" value="&lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(151, 208, 119));&quot;&gt;Сет брони&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
-          <mxGeometry x="-70" y="190" width="120" height="60" as="geometry" />
+          <mxGeometry x="-70" y="300" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="cLZ4lquTuIUv25ZifMkw-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="cLZ4lquTuIUv25ZifMkw-22" target="cLZ4lquTuIUv25ZifMkw-34" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -123,23 +123,17 @@
         <mxCell id="cLZ4lquTuIUv25ZifMkw-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="cLZ4lquTuIUv25ZifMkw-25" target="cLZ4lquTuIUv25ZifMkw-27" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="cLZ4lquTuIUv25ZifMkw-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="cLZ4lquTuIUv25ZifMkw-25" target="cLZ4lquTuIUv25ZifMkw-29" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="cLZ4lquTuIUv25ZifMkw-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="cLZ4lquTuIUv25ZifMkw-25" target="cLZ4lquTuIUv25ZifMkw-31" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="cLZ4lquTuIUv25ZifMkw-25" value="&lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(51, 255, 51));&quot;&gt;Уникальная механика (Sac. Dagger и Кровавое подношение)&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
-          <mxGeometry x="-70" y="590" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="cLZ4lquTuIUv25ZifMkw-27" value="&lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(151, 208, 119));&quot;&gt;Крафт Кров. Слитков&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
-          <mxGeometry x="-240" y="510" width="120" height="60" as="geometry" />
+          <mxGeometry x="-70" y="480" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="cLZ4lquTuIUv25ZifMkw-29" value="&lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(151, 208, 119));&quot;&gt;Крафт Кров. Кожи&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
-          <mxGeometry x="-240" y="590" width="120" height="60" as="geometry" />
+          <mxGeometry x="-240" y="580" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="cLZ4lquTuIUv25ZifMkw-31" value="&lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(51, 255, 51));&quot;&gt;Улучшения брони&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
-          <mxGeometry x="-240" y="670" width="120" height="60" as="geometry" />
+          <mxGeometry x="-240" y="660" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="cLZ4lquTuIUv25ZifMkw-34" value="&lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(151, 208, 119));&quot;&gt;Оружие дальника&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="-240" y="390" width="120" height="60" as="geometry" />
@@ -304,6 +298,15 @@
         </mxCell>
         <mxCell id="IV1hU4eRRa5rk0vwnlBe-8" value="&lt;h1&gt;&lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(0, 153, 0));&quot;&gt;Решено&lt;/font&gt;&lt;/h1&gt;&lt;div&gt;&lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(0, 153, 0));&quot;&gt;БАГ&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(0, 153, 0));&quot;&gt;После снятия кр. брони, бесплатный сакдаггер не убирается&lt;/font&gt;&lt;/div&gt;" style="shape=dataStorage;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="-784" y="920" width="224" height="104" as="geometry" />
+        </mxCell>
+        <mxCell id="OCQcfMszKaPH9DJ7OZi5-1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="cLZ4lquTuIUv25ZifMkw-25" target="cLZ4lquTuIUv25ZifMkw-27">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-70" y="510" as="sourcePoint" />
+            <mxPoint x="-180" y="590" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cLZ4lquTuIUv25ZifMkw-27" value="&lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(151, 208, 119));&quot;&gt;Крафт Кров. Слитков&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+          <mxGeometry x="-240" y="480" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
