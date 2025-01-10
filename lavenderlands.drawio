@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 YaBrowser/24.12.0.0 Safari/537.36" version="26.0.4">
   <diagram name="Страница — 1" id="m5t2pMFYY3bFJD1BpIWN">
-    <mxGraphModel dx="2474" dy="2112" grid="1" gridSize="16" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="light-dark(#FFFFFF,#000000)" math="0" shadow="0">
+    <mxGraphModel dx="2474" dy="2058" grid="1" gridSize="16" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="light-dark(#FFFFFF,#000000)" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -308,8 +308,11 @@
         <mxCell id="cLZ4lquTuIUv25ZifMkw-27" value="&lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(151, 208, 119));&quot;&gt;Крафт Кров. Слитков&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="-240" y="480" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Mhq8hWykVM3scG2Mnx2y-1" value="&lt;h1&gt;&lt;font color=&quot;#33ff33&quot;&gt;Решено&lt;/font&gt;&lt;/h1&gt;&lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(51, 255, 51));&quot;&gt;Предложение&lt;/font&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#33ff33&quot;&gt;Реворк текстуры Кров. Брони&lt;/font&gt;&lt;/div&gt;" style="shape=dataStorage;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+        <mxCell id="Mhq8hWykVM3scG2Mnx2y-1" value="&lt;h1&gt;&lt;font color=&quot;#33ff33&quot;&gt;Решено&lt;/font&gt;&lt;/h1&gt;&lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(51, 255, 51));&quot;&gt;Предложение&lt;/font&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#33ff33&quot;&gt;Реворк текстуры Кров. Брони&lt;/font&gt;&lt;/div&gt;" style="shape=dataStorage;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="-528" y="670" width="211" height="112" as="geometry" />
+        </mxCell>
+        <mxCell id="wusI1ZWOcqUa_KxtZNo6-1" value="&lt;h1&gt;&lt;font color=&quot;#33ff33&quot;&gt;TODO&lt;/font&gt;&lt;/h1&gt;&lt;font color=&quot;#007600&quot;&gt;Рог АЙС ДАГГЕР!!&lt;/font&gt;" style="shape=dataStorage;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#a20025;strokeColor=#6F0000;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="37" y="794" width="211" height="112" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
