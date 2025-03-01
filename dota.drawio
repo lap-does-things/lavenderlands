@@ -1,9 +1,17 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 YaBrowser/25.2.0.0 Safari/537.36" version="26.0.5">
   <diagram name="Страница — 1" id="8ExY74gPQnFqnCETN6b9">
-    <mxGraphModel>
+    <mxGraphModel dx="1647" dy="943" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="-PII5E2QrNYDrk4Pu5Mt-2" value="Идеи" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="214" y="250" width="556" height="510" as="geometry">
+            <mxRectangle x="214" y="250" width="70" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-PII5E2QrNYDrk4Pu5Mt-4" value="У таверов стоит щит, который снимается с каждой смертью прот. тимы" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="-PII5E2QrNYDrk4Pu5Mt-2">
+          <mxGeometry x="16" y="30" width="120" height="80" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
