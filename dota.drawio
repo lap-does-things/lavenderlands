@@ -9,7 +9,7 @@
             <mxRectangle x="214" y="250" width="70" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="-PII5E2QrNYDrk4Pu5Mt-4" value="У таверов стоит щит, который снимается с каждой смертью прот. тимы" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="-PII5E2QrNYDrk4Pu5Mt-2">
+        <mxCell id="-PII5E2QrNYDrk4Pu5Mt-4" value="У таверов стоит щит, который снимается с каждой смертью прот. тимы" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;size=0.08333333333333333;" vertex="1" parent="-PII5E2QrNYDrk4Pu5Mt-2">
           <mxGeometry x="16" y="30" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
